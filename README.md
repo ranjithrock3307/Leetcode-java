@@ -7,6 +7,7 @@ learn more
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ranjithrock3307/Leetcode-java/tree/master/0605-can-place-flowers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/ranjithrock3307/Leetcode-java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
