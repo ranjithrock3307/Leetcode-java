@@ -12,4 +12,20 @@ learn more
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ranjithrock3307/Leetcode-java/tree/master/0605-can-place-flowers) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ranjithrock3307/Leetcode-java/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ranjithrock3307/Leetcode-java/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ranjithrock3307/Leetcode-java/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ranjithrock3307/Leetcode-java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
